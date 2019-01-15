@@ -1,0 +1,16 @@
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\MainWindow.g.cs
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\App.g.cs
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\Triks3Ludo_MarkupCompile.cache
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\Triks3Ludo_MarkupCompile.lref
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\bin\Debug\Triks3Ludo.exe.config
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\bin\Debug\Triks3Ludo.exe
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\bin\Debug\Triks3Ludo.pdb
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\bin\Debug\WindowsInput.dll
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\bin\Debug\WindowsInput.xml
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\Triks3Ludo.csprojResolveAssemblyReference.cache
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\MainWindow.baml
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\Triks3Ludo.g.resources
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\Triks3Ludo.Properties.Resources.resources
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\Triks3Ludo.csproj.GenerateResource.Cache
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\Triks3Ludo.exe
+c:\users\nikol\documents\visual studio 2017\Projects\Triks3Ludo\Triks3Ludo\obj\Debug\Triks3Ludo.pdb
